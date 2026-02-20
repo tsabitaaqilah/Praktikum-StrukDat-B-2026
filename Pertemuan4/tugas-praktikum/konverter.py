@@ -1,4 +1,3 @@
-# konverter.py
 from kurs import data_kurs
 
 def konversi_ke_idr(jumlah, kode_mata_uang):
