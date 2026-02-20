@@ -1,7 +1,6 @@
 # test.py - jalankan setelah install colorama
 from colorama import Fore, Back, Style, init
 
-# Inisialisasi colorama
 init()
 
 print(Fore.RED + 'Teks Merah')
