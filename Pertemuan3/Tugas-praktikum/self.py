@@ -1,5 +1,5 @@
 # Self mengakses properti kelas
-# Self harus mebjadi parameter pertama dari metode mana pun dalam kelas
+# Self harus menjadi parameter pertama dari metode mana pun dalam kelas
 class Person:
     def __init__(self, name, age):
         self.name = name
